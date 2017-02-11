@@ -7,7 +7,9 @@
 	},
 	"dependencies": {
 		"express": "4.13.x",
-		"cfenv": "1.0.x"
+		"cfenv": "1.0.x",
+		"d3": "^3.5.5",
+    "jsdom": "^3.1.2"
 	},
 	"repository": {},
 	"engines": {
